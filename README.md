@@ -1,4 +1,3 @@
-# ChiptunePlayer-2.22-AudioShieldAYYM-v1.0
-(эта версия больше не поддерживается)
+# ChiptunePlayer-2.22-AudioShieldAYYM
 
 Данный репозиторий содержит ресурсы платы чиптюнового аудио модуля.
